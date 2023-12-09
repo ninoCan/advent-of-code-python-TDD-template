@@ -1,0 +1,7 @@
+{
+  "year": "{{ datetime.datetime.now().year  }}",
+  "project_name": "Advent of code {{ cookiecutter.year }}",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "author": "Anonymous",
+  "email": "your-email@domain.xmas"
+}
