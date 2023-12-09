@@ -38,7 +38,7 @@ The simplest method to start is by "crufting" this repo:
 
 There you go start coding!
 
-## ...but if you prefer cookies...
+### ...but if you prefer cookies...
 
 Alternatively, if you don't have cruft and just want to use cookiecutter, go ahead and clone this repo:
 
