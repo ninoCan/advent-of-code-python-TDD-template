@@ -50,7 +50,7 @@ Open up the skeleton project.
 If you need to change it around a bit, do so.
 Then generate your project from the project template:
 
-$ cookiecutter cookiecutter-advent-of-code-python-TDD
+    $ cookiecutter cookiecutter-advent-of-code-python-TDD
 
 Try it out!
 
